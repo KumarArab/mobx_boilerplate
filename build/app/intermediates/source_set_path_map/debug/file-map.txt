@@ -1,0 +1,14 @@
+com.iotecksolutions.todoapp-jetified-window-java-1.0.0-beta04-0 /Users/arabkumar/.gradle/caches/transforms-3/2b8e26acb308c072fe0178c237eddf3b/transformed/jetified-window-java-1.0.0-beta04/res
+com.iotecksolutions.todoapp-jetified-annotation-experimental-1.1.0-1 /Users/arabkumar/.gradle/caches/transforms-3/458619b281edf38572d58e052c6fe20b/transformed/jetified-annotation-experimental-1.1.0/res
+com.iotecksolutions.todoapp-core-1.6.0-2 /Users/arabkumar/.gradle/caches/transforms-3/65664cd4f1c70b94da6f9dff84afa262/transformed/core-1.6.0/res
+com.iotecksolutions.todoapp-jetified-window-1.0.0-beta04-3 /Users/arabkumar/.gradle/caches/transforms-3/69224f0af2ffe0ece8fc91563307ad8e/transformed/jetified-window-1.0.0-beta04/res
+com.iotecksolutions.todoapp-debug-4 /Users/arabkumar/Documents/flutter_practice/highlevel/flutter-boilerplate-project/android/app/src/debug/res
+com.iotecksolutions.todoapp-main-5 /Users/arabkumar/Documents/flutter_practice/highlevel/flutter-boilerplate-project/android/app/src/main/res
+com.iotecksolutions.todoapp-pngs-6 /Users/arabkumar/Documents/flutter_practice/highlevel/flutter-boilerplate-project/build/app/generated/res/pngs/debug
+com.iotecksolutions.todoapp-resValues-7 /Users/arabkumar/Documents/flutter_practice/highlevel/flutter-boilerplate-project/build/app/generated/res/resValues/debug
+com.iotecksolutions.todoapp-rs-8 /Users/arabkumar/Documents/flutter_practice/highlevel/flutter-boilerplate-project/build/app/generated/res/rs/debug
+com.iotecksolutions.todoapp-mergeDebugResources-9 /Users/arabkumar/Documents/flutter_practice/highlevel/flutter-boilerplate-project/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.iotecksolutions.todoapp-mergeDebugResources-10 /Users/arabkumar/Documents/flutter_practice/highlevel/flutter-boilerplate-project/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.iotecksolutions.todoapp-merged_res-11 /Users/arabkumar/Documents/flutter_practice/highlevel/flutter-boilerplate-project/build/app/intermediates/merged_res/debug
+com.iotecksolutions.todoapp-packaged_res-12 /Users/arabkumar/Documents/flutter_practice/highlevel/flutter-boilerplate-project/build/path_provider_android/intermediates/packaged_res/debug
+com.iotecksolutions.todoapp-packaged_res-13 /Users/arabkumar/Documents/flutter_practice/highlevel/flutter-boilerplate-project/build/shared_preferences_android/intermediates/packaged_res/debug
